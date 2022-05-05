@@ -1,6 +1,7 @@
 import { Switch, Route, Link } from "react-router-dom";
 import { Button, Layout, Space, Typography } from "antd";
 import { Navbar } from "./components";
+import "./App.css";
 
 function App() {
   return (
